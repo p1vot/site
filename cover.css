@@ -2,6 +2,11 @@
  * Globals
  */
 
+/* Logo */
+
+.logo {
+    margin-bottom: 2em;
+}
 /* Links */
 a,
 a:focus,
